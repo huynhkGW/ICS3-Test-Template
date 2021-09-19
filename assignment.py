@@ -1,8 +1,8 @@
 #-----------------------------------------------------------------------------
-# Name:        Assignment Template (assignment.py)
+# Name:        Test Template (Test.py)
 # Purpose:     A description of your program goes here.
 #
-# Author:      Mr. Brooks
+# Author:      Ms. Huynh
 # Created:     13-Sept-2020
 # Updated:     13-Sept-2020
 #-----------------------------------------------------------------------------
