@@ -1,4 +1,4 @@
-# Python Assignment Template
+# Python Test Template
 
 ## This is where you will submit a python assignment.
 
@@ -10,5 +10,5 @@ If working on the problems using repl with GitHub intergration, make sure to set
 
 ```
 language="python3"
-run="python 'assignment.py'"
+run="python 'test.py'"
 ```
